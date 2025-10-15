@@ -88,8 +88,5 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 | **Portfolio** | [https://dipti-singh-portfolio.vercel.app/](https://dipti-singh-portfolio.vercel.app/) |
 | **LinkedIn** | [https://www.linkedin.com/in/dipti-singh-3b0274309/](https://www.linkedin.com/in/dipti-singh-3b0274309/) |
 
-## © License
-
-This project is currently unlicensed. You are welcome to view and adapt the code for personal learning, but please do not claim it as your own without significant modification.
 
 ---
