@@ -89,4 +89,15 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 | **LinkedIn** | [https://www.linkedin.com/in/dipti-singh-3b0274309/](https://www.linkedin.com/in/dipti-singh-3b0274309/) |
 
 
+
+##  📄 License
+This project is licensed under the MIT License - see the LICENSE file for details (if you have one). If you don't have a LICENSE file, you can remove this section.
+
+## 🧑‍💻 Author
+GitHub - **[Dipti](https://github.com/dipti-2211)**
+
+Portfolio - **[Dipti's Portfolio](https://dipti-singh-portfolio.vercel.app/)**
+
+Linkdein - **[Linkdein](https://www.linkedin.com/in/dipti-singh-3b0274309/)**
+
 ---
