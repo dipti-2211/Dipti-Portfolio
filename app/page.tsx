@@ -299,11 +299,25 @@ export default function HomePage() {
     <div className="grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8">
       {[
         {
-          title: 'Donation Platform',
-          desc: 'Seamless donation system with Stripe integration.',
-          tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-          link: 'https://www.youtube.com/watch?v=LYEi8FSvMSA&pp=0gcJCX4JAYcqIYzv',
-          image: "/donat.jpg",
+          title: 'Echo — AI Chatbot',
+          desc: 'An intelligent AI chatbot with persona-switching.',
+          tech: ['React', 'Node.js', 'Firebase', 'Groq AI'] ,
+          link: 'https://echo-ai-chat-bot.vercel.app/',
+          image: "/echo.png",
+        },
+        {
+          title: 'Medi-Track',
+          desc: 'Full-stack application for health and medical data management.',
+         tech: ['React', 'Three.js', 'React Three Fiber', 'TensorFlow.js'],
+          link: 'https://github.com/dipti-2211/Medi-Track', 
+          image: '/medi-track.png',
+        },
+        {
+          title: 'Vision — 3D ML Visualizer',
+          desc: 'Interactive 3D model viewer with machine learning.',
+          tech: ['TypeScript', 'ShadCN/UI', 'Express.js', 'Next.js'],
+          link: 'https://ml-3d-objects.vercel.app/', 
+          image : '/3d.png',
         },
         {
           title: 'Netflix Clone',
@@ -312,20 +326,8 @@ export default function HomePage() {
           link: 'https://netflix-clone-omega-seven-19.vercel.app/',
           image: '/netf.jpg',
         },
-        {
-          title: 'Portfolio Website',
-          desc: 'Developing Functional, Fast, and Future-Ready Web Applications',
-          tech: ['TypeScript', 'ShadCN/UI', 'Express.js', 'Next.js'],
-          link: 'https://github.com/dipti-2211/Dipti_Portfolio', 
-          image : '/portfolio.jpg',
-        },
-        {
-          title: 'Medi-Track',
-          desc: 'Full-stack application for health and medical data management.',
-          tech: ['React', 'GraphQL', 'PostgreSQL', 'Redis'],
-          link: 'https://github.com/dipti-2211/Medi-Track', 
-          image: '/medi-track.png',
-        },
+        
+        
       ].map((project, index) => {
         const handleClick = () => {
           const url = project.link || 'coming.png'
